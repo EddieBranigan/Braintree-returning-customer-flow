@@ -3,7 +3,11 @@
     "start": "nodemon index.js"
   },
   "dependencies": {
-    "express": "^4.18.3"
+    "body-parser": "^1.20.2",
+    "braintree": "^3.22.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
